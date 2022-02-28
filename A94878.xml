@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the behaviour of Thomas Randal, who was executed at Stone-Bridge, for killing the Quaker, on Wednesday the 29th of this instant January 1695/6. : On the Lord's Day, after the condemnation of the criminals, the ordinary preacht on this text, viz. Psal. XC. Vers. 11. Who knows the power of thy anger?</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94878</idno>
+            <idno type="STC">Wing T2356A</idno>
+            <idno type="STC">ESTC R229687</idno>
+            <idno type="EEBO-CITATION">43077704</idno>
+            <idno type="OCLC">ocm 43077704</idno>
+            <idno type="VID">151817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151817)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the behaviour of Thomas Randal, who was executed at Stone-Bridge, for killing the Quaker, on Wednesday the 29th of this instant January 1695/6. : On the Lord's Day, after the condemnation of the criminals, the ordinary preacht on this text, viz. Psal. XC. Vers. 11. Who knows the power of thy anger?</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Mallet, near Fleet-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695/6 [i.e. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Sam. Smith, Ordinary.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Randal, Thomas, d. 1696.</term>
+               <term>Bible. --  O.T. --  Psalms XC, 11 --  Sermons.</term>
+               <term>God --  Wrath --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151817:1" rendition="simple:additions"/>
+            <head>A True ACCOUNT of the BEHAVIOUR OF <hi>Thomas Randal,</hi> Who was Executed at STONE-BRIDGE, For Killing the <hi>Q<g ref="char:V">Ʋ</g>AKER,</hi> On <hi>Wedneſday</hi> the 29th of this Inſtant <hi>January</hi> 1695/6.</head>
+            <p>On the <hi>Lord's Day,</hi> after the Condemnation of the Criminals, the <hi>Ordinary</hi> Preacht on this Text, <hi>viz.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="sermon">
+               <body>
+                  <epigraph>
+                     <bibl>
+                        <hi>PSAL. xc. Verſ. 11.</hi>
+                     </bibl>
+                     <q>
+                        <p>Who knows the power of thy Anger?</p>
+                     </q>
+                  </epigraph>
+                  <div type="outline">
+                     <head>The Doctrinal Obſervation.</head>
+                     <q>
+                        <p>THO God's Anger be infinite in it ſelf, and be the Declarations of his juſt diſpleaſure againſt Sin and Sinners, yet it is no otherwiſe feared, than as it works upon Mens Hearts, to amend the miſ<g ref="char:EOLhyphen"/>carriages of their Lives, and as it forms them to Reverential ſincere Obedience to his ſacred Laws.</p>
+                     </q>
+                     <p>In treating of this Obſervation, I ſhall ſhew theſe Particulars.</p>
+                     <p n="1">1. What is Anger properly in God.</p>
+                     <p n="2">2. In what reſpects God's Anger is declared in the Severity of it.</p>
+                     <p n="3">3. How Mens Preſumption declares it ſelf, in provoking God's Anger againſt themſelves.</p>
+                     <p n="4">4. What is the difference 'twixt ſhaviſh Conſternations at the penal effects of God's Anger, which vaniſh without any Impreſſion of Reformation, and the genuine Fear of holy Perſons.</p>
+                     <p n="5">5. From the whole Diſcourſe, I ſhall ſet down ſome Rules and Motives to the Condemned, how they may not fall under the ſtroke of God's Severity.</p>
+                  </div>
+                  <div n="1" type="point">
+                     <p>
+                        <hi>First.</hi> What is Anger in God? It is not an Impotent Paſſi<g ref="char:EOLhyphen"/>on, as in Men, but an holy, well regulated Declaration of his Hatred againſt Sins in the juſt puniſhment of Sinners. This is without any diſturbance of his Eſſential Bleſſedneſs in the ſerene Injoyment of himſelf, and without any Injuriouſneſs to<g ref="char:EOLhyphen"/>wards Men.</p>
+                     <p>
+                        <hi>2ly.</hi> Tho God be infinitely arm'd with Power to deſtroy Sinners, yet he ſtirs not up his whole diſpleaſure till Sinners deſpiſe the Riches of his Mercy and Goodneſs, deſign'd to lead them to Repentance and Amendment.</p>
+                     <p>Men by hardning their Hearts in an obſtinate Courſe of Sin<g ref="char:EOLhyphen"/>ning, fit themſelves for eternal Deſtruction.</p>
+                     <p>Thus final wilful Inpenitency lifts up its Head above all other Impieties, triumphing as it were over the Mercy and Good<g ref="char:EOLhyphen"/>neſs of God.</p>
+                     <p>Such know not the Power of his Anger, who by an inſenſi<g ref="char:EOLhyphen"/>ble Security plung their Souls in ſenſual Pleaſures, till God's Juſtice ſuſpend all Tenderneſs, and Triumph in their Deſtru<g ref="char:EOLhyphen"/>ction.</p>
+                  </div>
+                  <div n="2" type="pointt">
+                     <head>Second Head.</head>
+                     <p>God's Anger in the Severity of it is declared in three Reſpects,</p>
+                     <p n="1">1. In wounding the Conſciences of the moſt inſolent auda<g ref="char:EOLhyphen"/>cious Sinners, when they moſt bleſs themſelves in their Impie<g ref="char:EOLhyphen"/>ties, as preſuming that they ſhall defeat the ſtroke of Vindictive Juſtice.</p>
+                     <p n="2">2. In puniſhing Sin with Sin, with Blindneſs of Mind, Hard<g ref="char:EOLhyphen"/>neſs of Heart, deſperate Obſtupifaction in the Conſcience.</p>
+                     <p>This is not only an aſſuring Pledge of Eternal Torments, but the ſaddeſt Anticipation of them, as Sealing up inpenitent Sinners to the day of Wrath.</p>
+                     <p n="3">3. By puniſhing Sinners beyond the Grave, in ſubjecting then under an infinite and eternal weight of Wrath, ever com<g ref="char:EOLhyphen"/>ing and abiding, as the Curſe on all incorrigible Sinners: The Hell of Hell being the perfect Conſummation of their Wicked<g ref="char:EOLhyphen"/>neſs.</p>
+                     <p>Yet theſe dreadful effects of Divine Anger, tho infinite in it ſelf, and eternal in thoſe Puniſhments which it inflicts, makes little or no Impreſſion on Mens Minds, Hearts, and Converſa<g ref="char:EOLhyphen"/>tions, to awaken them to Repentance and Reformation.</p>
+                  </div>
+                  <div n="3" type="point">
+                     <head>Third Head.</head>
+                     <p>How Mens Preſumption declares it ſelf, in provoking Gods Anger againſt themſelves.</p>
+                     <p>O conſider the Power of God's Anger in time, leſt he tear you in pieces, and there be none to deliver you.</p>
+                     <p>The ſtouteſt Sinners have neither power nor fortitude of Mind to bear up under, much leſs to grapple with ahe wrath<g ref="char:EOLhyphen"/>ful Indignation of the Almighty.</p>
+                     <p>What is this? It is not only God's Anger breaking forth into a flame of Wrath, but the utter loathing and Abhoring of the perverſe Sinner, in the utter Rejection of him, ſo as to leave him juſtly to himſelf in filling up the meaſure of his Iniquities, till he be ripe for Deſtruction.</p>
+                     <p>Is it any wonder, if the utmoſt ſeverity of the Lord, take hold on ſuch, who ſtrengthen themſelves in their Wickedneſs, yet are Impudent and Shameleſs, in ſporting with thoſe very Thunderbolts, which ſtrike others dead, as Monuments of God's fiery Indignation? who is able to abide the day of the Lord's Wrath? Yet Preſumptuous Sinners treaſure it up, as If they were covetous to intaile Damnation on themſelves. Let ſuch conſider, that Holy Perſons dread the excellency of God's purity, when he comes to Search and Try the moſt innocent paſſages of their Lives; to refine them in their Converſations. Here argue thus: What Fearfulneſs will ſurprize all Hypocrites, to whom the juſt Lord arm'd with Fury, will not be a refining, but a conſuming Fire, in the utmoſt Efforts of his vindictive Wrath to all eternity.</p>
+                  </div>
+                  <div n="4" type="point">
+                     <head>Fourth Head.</head>
+                     <p>I ſhall to undeceive Hypocrites, ſtate the difference 'twixt ſlaviſh Conſternations, at the penal effects of God's Anger, which vaniſh without any Impreſſion of Reformation, and the genuine fear of holy Perſons.</p>
+                     <p n="1">1. A true Penitent is troubled at the very remembrance of God's Holineſs, as being vile in his own account, when he is moſt exact in his Obedience.</p>
+                     <p n="2">
+                        <hi>2ly.</hi> He grieves for the leaſt Offence of God, even when he hath ſealed his Pardon, and is pacified towards him.</p>
+                     <p n="3">
+                        <hi>3ly.</hi> The true fear of God, is a ſettled Reverential Obſervance of him, which over-rules a Saint to a perfect hatred of the leaſt Sin; it maintains an holy ſtrict Diſcipline, in mortifying the inordinate Luſtings of the Heart.</p>
+                     <p n="4">
+                        <hi>4ly.</hi> A real Penitent cannot enjoy himſelf with any Peace of Mind, unleſs he devote himſelf to ſerve the Lord in a Reveren<g ref="char:EOLhyphen"/>tial Love of him, for his Divine Excellency and Perfections: Thus the true fear of the Lord flows from Love, and is guard<g ref="char:EOLhyphen"/>ed by an holy humble Warineſs, not to diſpleaſe God by the leaſt Remiſneſs in any Circumſtance of his Duty.</p>
+                  </div>
+                  <div n="5" type="point">
+                     <pb facs="tcp:151817:2"/>
+                     <p>You have heard, how God Arms his Juſtice with Severity againſt Sin and Sinners.</p>
+                     <p>Yet wilful Sinners bid the God of Mercy depart from them, they deſire not the knowledge of his ways: Theſe are alway grievous to them; they mock at his fear, and harden their Hearts againſt him: But are they ſtrong enough to conflict, with Omnipotency, to eſcape God's Vengeance is impoſſible, and to bear it is intolerable.</p>
+                     <p>The Anger of a Man may be appeaſed, but when God's <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſuffering is abuſed, by turning the offers of Grace into prodi<g ref="char:EOLhyphen"/>gious exceſſes in ſinning; what Ranſom ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> mitigate God's Wrath, or reſcue the Sinner from that Deſtruction, which he hath wilfully brought upon himſelf.</p>
+                     <p>Would you be fortified againſt the King of Terrors, beg of God that he would unite your Hearts to fear his Holineſs, ra<g ref="char:EOLhyphen"/>ther than the penal effects of Sin: ſuch a fear of God would quite diſarm Death of its ſting.</p>
+                     <p>It would turn it againſt it ſelf, making Death to be ſwallow<g ref="char:EOLhyphen"/>ed up in a victorious Triumph.</p>
+                     <p>Repent that you have not feared to ſin againſt God's Mercy and Goodneſs, which ſhould have prevailed on you, to the Reformation of your Hearts and Lives.</p>
+                     <p>Thus you will not be over fond to have your Lives ſpared, but will encounter Death with an holy Courage.</p>
+                     <p>Having apart in the firſt Reſurrection, as dead to the Love of ſin, and being quickned by the Spirit of Sanctification to heaven<g ref="char:EOLhyphen"/>ly Qualifications; you ſhall under the ſharpeſt Agonies of dy<g ref="char:EOLhyphen"/>ing, triumph over them, yea, you ſhall trample under your Feet all the Powers of Hell, as exalted to Thrones of Glory in Celeſtial Bleſſedneſs, through all the Ages of Eternity.</p>
+                  </div>
+               </body>
+            </floatingText>
+            <p>
+               <hi>I proceed to give an Account of Three Condemned Cri<g ref="char:EOLhyphen"/>minals, at the Seſſion in the</hi> Old Baily, <hi>on</hi> Satur<g ref="char:EOLhyphen"/>day <hi>the</hi> 18th <hi>of this Inſtant</hi> January.</p>
+            <p>I Preacht twice on the Lord's Day, yet <hi>Randal</hi> was very inſenſible of his barbarous Crime, and did not attend to the Sermons nor Prayers, with any Relenting.</p>
+            <p>On the <hi>Munday</hi> I viſited him, and another Criminal Con<g ref="char:EOLhyphen"/>demn'd with him, both were far from any ferious Behaviour in my Praying with them.</p>
+            <p>On <hi>Tueſday</hi> I viſited them another Miniſter aſſiſting me, he endeavour'd to make <hi>Randal</hi> ſenſible of Murthering Mr. <hi>Le<g ref="char:EOLhyphen"/>vens,</hi> yet he utterly deny'd it, and affirm'd that he knew no<g ref="char:EOLhyphen"/>thing of it.</p>
+            <p>On <hi>Wedneſday</hi> in the Afternoon, I took him aſide, and for a conſiderable time endeavour'd to perſwade him, no longer Athieſtically to deny the Crime; but he ſtood out in the de<g ref="char:EOLhyphen"/>nial of it, whereupon I read to him, what was ſworn againſt him at his Tryal, and that the Jury was fully convinced in their Conſciences that he was guilty, which they declared, when they gave their Verdict. He reply'd, <hi>That he did not matter that, being clear in his own Conſcience.</hi> Then I told him, that he obſtructed any Rational Hopes of his Salvation, and that all Perſons who read the Book of Tryals, whom I met with, be<g ref="char:EOLhyphen"/>liev'd him to be guilty.</p>
+            <p>I pray'd, that God would work him to a free and full ac<g ref="char:EOLhyphen"/>knowledgment of his Crime, and grant him Repentance for it. Yet he deny'd it, and ſaid, <hi>That he was reſolved to do ſo at the time of his Death.</hi> I told him of a Perſon who Murther'd his Wife, and deny'd it ſeveral times at the place of Execution, wiſhing Damnation on himſelf, if he knew any thing of it. After I had pray'd thrice, that God would perſwade him to declare the Truth; I told him, If I went out of the Cart any more, he would be preſently Execu<g ref="char:EOLhyphen"/>ted, and then he could not be Saved, dying in his Atheiſtical Impenitency. At laſt he call'd me back, and ſaid, <hi>I Murther<g ref="char:EOLhyphen"/>ed my Wife with a Piſtol, and ſhot her in the Head; but let not the People know it.</hi> I ſaid, your ſelf ſhall declare, that you Murthered her. Then he ſaid, <hi>All you that behold me, pray for me, that God would Pardon my great Provocation of him, in denying my Crime againſt my Conſcience; for had I dy'd with a Lye in my Mouth, I had been damned.</hi> This Account ſomewhat ſtartled <hi>Randal,</hi> and altred his Countenance then I pray'd again, that God would not leave him to dye in ſo bar<g ref="char:EOLhyphen"/>barous a Crime, but to confeſs it, and to Repent of his former Obſtinacy. After this, he ſaid not any word by way of reply: Then I told him, that he ought to conſider of whatſoever I had ſaid, and I hoped that he would confeſs the Crime before he dy'd. He ſaid, that he had lived in much Sinning, but would not acknowledge any particular.</p>
+            <p n="2">II. <hi>Richard Tarrant,</hi> alias <hi>Skinney Dick,</hi> Aged 20 Years or thereabout: Condemned for Picking the Pocket of Mr. <hi>John Knight,</hi> and taking from him a Watch, value Nine Pounds; he deny'd it, but Mr. <hi>Knight</hi> was very poſitive in his Evidence; and the Jury found him guilty. He had been an old Offender, and deny'd not that formerly he was guilty of ſuch an Offence.</p>
+            <p>
+               <hi>Tarrant</hi> liv'd with his Father in the Country, and kept him to Comb Wool. But he was not Obedient to his Father, as he ought; ſo he left him ſome years ſince. And he led an idle Life, which he ſaid laid him open to ſinful Courſes, ſuch as Sabbath-breaking, omitting of Prayer, that he was guilty of Swearing, and wiſht ſometimes in his Paſſion Damnation to others. He relented that he had not ſerved God; but now he prays that God would make him ſenſible of all his Sins, for ſaid he, <hi>Christ affirms, that for every idle Word, we must give an account in the day of Judgment; and the least Sin will damn a Man without Repentance.</hi>
+            </p>
+            <p n="3">III. <hi>Anne Walters,</hi> Condemned for Picking the Pocket of one <hi>Richard Clark,</hi> taking from him two Guineas, and 20 Shillings in Mony numbred. Two Guineas and ſix Shillings were found in her Mouth, which Mr. <hi>Clark</hi> ſaid was his Mony, whereupon the Jury brought her in guilty.</p>
+            <p>She did not utterly deny the Fact. She confeſt that her Life had been bad, as to Sabbath-breaking, and not regarding to pray that God would keep her from Sinning. She was known to have been an ill Liver, and could not call any body to her Reputation at her Tryal. She was little ſenſible of the ſtate of her Soul, as to the future Judgment of God.</p>
+            <p>On <hi>Wedneſday</hi> the 29th of <hi>January; Thomas Randal,</hi> who killed <hi>Roger Levens</hi> the Quaker, was put into a Cart and con<g ref="char:EOLhyphen"/>veyed by the Deceaſed's Door at <hi>White-Chappel,</hi> and from thence to the Place of his Execution at <hi>Stone-bridge</hi> by <hi>Kings<g ref="char:EOLhyphen"/>land,</hi> where he is to hang in Irons, on a Gibbet, till his Body be conſumed. He did confeſs that he was at the <hi>Marſhalſea</hi> with <hi>Lock</hi> and <hi>Green,</hi> but denied that he never ſpoke any ſuch Words, that he did kill the <hi>Quaker:</hi> He acknowledged that he did ſay to the Serjeant when he was Taken, that he was a Dead Man, and that he had been a very wicked Sinner, and had been Guilty of all manner of Sins in general; (except that of Murder) He owned a Burglary that he committed at <hi>Linton,</hi> near <hi>Saffron-Walden</hi> in <hi>Eſſex;</hi> but would not confeſs any of his Accomplices. He ſaid that <hi>Hunt</hi> and he had been in many Robberies. The Worthy Sheriffs did exhort him with Spiritual Council, that he ſhould make an Ingenious Confeſſion, and not to perſiſt in his Obſtinacy, and Dye with a Lye in his Mouth, but to have regard to his precious Soul; it wrought nothing upon him, his Heart being ſo hardened, he would not diſcover any thing of the Murder; nor any of the Perſons that was with him at that time; but hoped that he had done his Work with God Almighty. Then Mr, Ordinary preſſed him, and told him that Confeſſion was the firſt ſtep to Repen<g ref="char:EOLhyphen"/>tance; and without that he could hardly make his Peace with God; but it did avail nothing with him, he ſtill perſiſting in the ſame, till the Cart Drew away; He was turned off.</p>
+            <closer>
+               <hi>This is all the Account I can give of this Seſſions.</hi>
+               <signed>Sam. Smith, <hi>Ordinary.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dated</hi> 
+                  <date>January 29.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. Mallet,</hi> near <hi>Fleet-Bridge,</hi> 1695/6.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
